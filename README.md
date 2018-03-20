@@ -135,7 +135,22 @@ Se utilizo herramienta Google Forms para que el usuario sienta más confianza de
 ![ENCUESTA](assets/images/Encuesta.png)
 
 
-![RESULTADOS DE ENCUESTA](assets/images/ResultadosEncuesta)
+![RESULTADOS DE ENCUESTA](assets/images/ResultadosEncuesta.png)
+
+
+
+Analizamos la Respuestas de la Encuesta con la hoja de calculo de Excel utilizamos el pivot table para un mejor resultado
+
+![RESULTADOS DE ENCUESTA](assets/images/analizarEncuesta.png)
+
+![RESULTADOS DE ENCUESTA](assets/images/analizarEncuesta1.png)
+
+![RESULTADOS DE ENCUESTA](assets/images/analizarEncuesta2.png)
+
+![RESULTADOS DE ENCUESTA](assets/images/analizarEncuesta3.png)
+
+![RESULTADOS DE ENCUESTA](assets/images/analizarEncuesta4.png)
+
 
 ## CONCLUSIÓN
 
